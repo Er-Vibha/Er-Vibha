@@ -31,6 +31,9 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-3670A0?style=flat&logo=Java&logoColor=ffdd54) ![Mulesoft](https://img.shields.io/badge/Mulesoft-%23092E20.svg?style=flat&logo=Mulesoft&logoColor=white) ![Boomi](https://img.shields.io/badge/Boomi-%23563D7C.svg?style=flat&logo=Boomi&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Excel](https://img.shields.io/badge/Excel-%23197EF2.svg?style=flat&logo=microsoft-excel&logoColor=white) ![Word](https://img.shields.io/badge/Word-%232B5797.svg?style=flat&logo=microsoft-word&logoColor=white) ![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=flat&logo=microsoft-powerpoint&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23E97627.svg?style=flat&logo=Jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23E97627.svg?style=flat&logo=AWS&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-contributor-stats.vercel.app/api?username=Er-Vibha&limit=5&theme=onestar&hide_border=True&combine_all_yearly_contributions=true)
+
 
   ## 💰 Hire me
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Er-Vibha) 
