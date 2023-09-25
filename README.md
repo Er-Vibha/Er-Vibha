@@ -37,9 +37,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Er-Vibha&limit=5&theme=onestar&hide_border=True&combine_all_yearly_contributions=true)
 
 
-  ## 💰 Hire me
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Er-Vibha) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffdd00?style=for-the-badge&logo=portfolio&logoColor=black)](https://Er-Vibha.github.io)
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
