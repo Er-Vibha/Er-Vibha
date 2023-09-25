@@ -34,6 +34,12 @@
 ![JIRA](https://img.shields.io/badge/JIRA-%23E97627.svg?style=flat&logo=JIRA&logoColor=white)
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=er-vibha&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=er-vibha&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=er-vibha&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 ![](https://github-contributor-stats.vercel.app/api?username=Er-Vibha&limit=5&theme=onestar&hide_border=True&combine_all_yearly_contributions=true)
 
 
